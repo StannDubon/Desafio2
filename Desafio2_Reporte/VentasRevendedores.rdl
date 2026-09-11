@@ -7,9 +7,9 @@
     </am:CreatedBy>
     <am:UpdatedBy>
       <am:Name>SSDTRS</am:Name>
-      <am:Version>18.10.12201.205</am:Version>
+      <am:Version>17.14.37614.0</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2026-09-11T20:54:21.5013553Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2026-09-11T23:45:45.7045662Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -17,7 +17,7 @@
     <DataSource Name="AdventureWorks">
       <ConnectionProperties>
         <DataProvider>OLEDB-MD</DataProvider>
-        <ConnectString>Data Source=localhost\SQLEvaluation;Initial Catalog=Desafio2</ConnectString>
+        <ConnectString>Data Source=LAPTOP-DEAC\AD26;Initial Catalog=Desafio2</ConnectString>
         <IntegratedSecurity>true</IntegratedSecurity>
       </ConnectionProperties>
       <rd:SecurityType>Integrated</rd:SecurityType>
@@ -836,7 +836,7 @@
             <DataSetName>DataSet1</DataSetName>
             <Top>0.75458in</Top>
             <Height>0.64875in</Height>
-            <Width>7.53125in</Width>
+            <Width>7.53124in</Width>
             <ZIndex>1</ZIndex>
             <Style />
           </Tablix>

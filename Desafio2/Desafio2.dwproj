@@ -64,7 +64,7 @@
           <ConfigurationSetting>
             <Id>Adventure Works DW2025</Id>
             <Name>Adventure Works DW2025</Name>
-            <Value xsi:type="xsd:string">Data Source=localhost\SQLEVALUATION;Initial Catalog=AdventureWorksDW2025;User ID=;Password=;Encrypt=False;Trust Server Certificate=True</Value>
+            <Value xsi:type="xsd:string">Data Source=LAPTOP-DEAC\AD26;Initial Catalog=AdventureWorksDW2025;Persist Security Info=True;User ID=;Password=;Encrypt=True;Trust Server Certificate=True</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionProviderMappings>
@@ -81,7 +81,7 @@
             <Value xsi:type="xsd:int">1</Value>
           </ConfigurationSetting>
         </ConnectionSecurityMappings>
-        <DeploymentServerEdition>Evaluation</DeploymentServerEdition>
+        <DeploymentServerEdition>Enterprise</DeploymentServerEdition>
         <DeploymentServerVersion>16.0</DeploymentServerVersion>
       </Options>
     </Configuration>
